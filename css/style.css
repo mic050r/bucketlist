@@ -1,3 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Hahmlet:wght@300&display=swap");
+* {
+  font-family: "Hahmlet", serif;
+}
 .bg {
   background-image: url(https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bg-grid.png);
   background-position: center;
