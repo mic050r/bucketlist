@@ -1,0 +1,30 @@
+.bg {
+  background-image: url(https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bg-grid.png);
+  background-position: center;
+  background-size: cover;
+  margin: auto;
+  width: 360px;
+}
+
+.title {
+  background-color: tomato;
+  border-radius: 10px;
+  color: white;
+  text-align: center;
+  padding: 4px 14px;
+}
+
+.bucket {
+  width: 160px;
+  height: 160px;
+  background-position: center;
+  background-size: cover;
+}
+
+.img1 {
+  background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-red.png");
+}
+
+.img2 {
+  background-image: url("https://s3.ap-northeast-2.amazonaws.com/materials.spartacodingclub.kr/bucketList/bucket-lightred.png");
+}
